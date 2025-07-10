@@ -11,7 +11,7 @@
 
 
 ## 最新动态
-- ![北京邮电大学计算机学院（国家示范性软件学院）2025年夏令营通知](https://github.com/woshidandan/IAA_Tutorial/assets/15050507/1ff2cf92-0555-418e-8d04-0c1588c480dd)；
+- ![北京邮电大学计算机学院（国家示范性软件学院）2025年夏令营通知](https://yzb.bupt.edu.cn/info/1003/1229.htm)；
 - 注：每年北邮的夏令营一般都在6月底至7月初开启，请各位同学及时关注动态
 
 ## 夏令营流程
@@ -27,6 +27,7 @@
   <tbody>
     <tr>
       <td style="text-align:center;"><strong>1. 准备阶段</strong></td>
+      <td><ul><li>**以第一志愿，在系统内填报计算机五组**</li></ul></td>
       <td><ul><li>入营候选人资格审核与通知</li></ul></td>
       <td style="text-align:center;">报名系统截止后的一周内</td>
     </tr>
