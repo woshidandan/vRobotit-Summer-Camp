@@ -27,8 +27,7 @@
   <tbody>
     <tr>
       <td style="text-align:center;"><strong>1. 准备阶段</strong></td>
-      <td><ul><li><strong>以第一志愿，在系统内填报计算机五组</strong></li></ul></td>
-      <td><ul><li>入营候选人资格审核与通知</li></ul></td>
+      <td><ul><li><strong>以第一志愿，在系统内填报计算机五组</strong></li><li>入营候选人资格审核与通知</li></ul></td>
       <td style="text-align:center;">报名系统截止后的一周内</td>
     </tr>
     <tr>
