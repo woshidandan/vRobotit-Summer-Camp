@@ -16,6 +16,49 @@
 
 ## 夏令营流程
 
+<h3>夏令营流程</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center;">阶段</th>
+      <th style="text-align:center;">主要内容</th>
+      <th style="text-align:center;">时间</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center;"><strong>1. 准备阶段</strong></td>
+      <td><ul><li>入营候选人资格审核与通知</li></ul></td>
+      <td>报名系统截止后的一周内</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><strong>2. 了解小组</strong></td>
+      <td><ul><li>入营候选人加群</li><li><strong>在线观看各小组<a href="http://www.baidu.com">介绍视频</a></strong>，初步选择意向小组<br><sub>（注：请将视频保存至百度网盘以观看完整版视频）</sub></li></ul></td>
+      <td>加群当天</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><strong>3. 任务宣讲</strong></td>
+      <td><ul><li>参与线上会议</li><li>各小组负责人详细介绍夏令营作业与任务安排</li><li>在线答疑环节</li></ul></td>
+      <td>加群后第二天</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><strong>4. 完成作业</strong></td>
+      <td><ul><li>根据个人兴趣最终选择一个小组</li><li>独立完成该小组布置的作业</li><li>将相关材料发送至指定负责人的邮箱</li></ul></td>
+      <td>持续一周</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><strong>5. 最终答辩</strong></td>
+      <td><ul><li>准备个人PPT</li><li>内容包括：自我介绍、科研经历、项目介绍、夏令营作业思路与成果等</li><li>进行最终线上答辩</li><li>公布最后优秀营员名单（拟录取名单）</li></ul></td>
+      <td>夏令营最后一天</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
 为了让您更清晰地了解夏令营的每一个环节，我们将整体流程整理为下表。整个夏令营从候选人审核通过后计算，总计约需要一周时间。
 
 | **阶段** | **主要内容** | **时间** |
