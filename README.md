@@ -34,7 +34,7 @@
     <tr>
       <td style="text-align:center;"><strong>2. 了解小组</strong></td>
       <td><ul><li>通知入营候选人加群</li><li><strong>浏览各小组<a href="https://pan.baidu.com/s/17brQZsxkizcqch2dcyIboQ?pwd=qw7e">介绍视频🎥</a></strong>，初步选择意向小组<br><sub>（注：请将视频保存至百度网盘以观看完整版视频）</sub></li></ul></td>
-      <td style="text-align:center;">加群当天(2025年7月14日)</td>
+      <td style="text-align:center;">加群当天</br>(2025年7月14日)</td>
     </tr>
     <tr>
       <td style="text-align:center;"><strong>3. 任务宣讲</strong></td>
