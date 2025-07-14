@@ -34,22 +34,22 @@
     <tr>
       <td style="text-align:center;"><strong>2. 了解小组</strong></td>
       <td><ul><li>通知入营候选人加群</li><li><strong>浏览各小组<a href="https://pan.baidu.com/s/17brQZsxkizcqch2dcyIboQ?pwd=qw7e">介绍视频🎥</a></strong>，初步选择意向小组<br><sub>（注：请将视频保存至百度网盘以观看完整版视频）</sub></li></ul></td>
-      <td style="text-align:center;">加群当天</td>
+      <td style="text-align:center;">加群当天(2025年7月14日)</td>
     </tr>
     <tr>
       <td style="text-align:center;"><strong>3. 任务宣讲</strong></td>
       <td><ul><li>参与线上会议</li><li>各小组负责人详细介绍夏令营作业与任务安排</li><li>在线答疑环节</li></ul></td>
-      <td style="text-align:center;">所有人加群后第二天</td>
+      <td style="text-align:center;">所有人加群后第二天(2025年7月15日)</td>
     </tr>
     <tr>
       <td style="text-align:center;"><strong>4. 完成作业</strong></td>
       <td><ul><li>根据个人兴趣最终选择一个小组</li><li>独立完成该小组布置的作业</li><li>将相关材料发送至指定负责人的邮箱</li></ul></td>
-      <td style="text-align:center;">宣讲后一周内时间内⏳</td>
+      <td style="text-align:center;">宣讲后一周内时间内⏳(2025年7月21日下午6点前)</td>
     </tr>
     <tr>
       <td style="text-align:center;"><strong>5. 最终答辩</strong></td>
       <td><ul><li>准备个人PPT</li><li>内容包括：自我介绍、科研经历、项目介绍、夏令营作业思路与成果等</li><li>进行最终线上答辩</li><li>公布最后优秀营员名单（拟录取名单）🎉</li></ul></td>
-      <td style="text-align:center;">宣讲后一周内的最后一天</td>
+      <td style="text-align:center;">宣讲后一周内的最后一天(2025年7月22日上午10点)</td>
     </tr>
   </tbody>
 </table>
