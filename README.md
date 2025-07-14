@@ -49,7 +49,7 @@
     <tr>
       <td style="text-align:center;"><strong>5. 最终答辩</strong></td>
       <td><ul><li>准备个人PPT</li><li>内容包括：自我介绍、科研经历、项目介绍、夏令营作业思路与成果等</li><li>进行最终线上答辩</li><li>公布最后优秀营员名单（拟录取名单）🎉</li></ul></td>
-      <td style="text-align:center;">宣讲后一周内的最后一天</br>(2025年7月22日上午10点)</br>腾讯会议：793-494-761(密码：9527)</td>
+      <td style="text-align:center;">宣讲后一周内的最后一天</br>(2025年7月22日下午2点30)</br>腾讯会议：793-494-761(密码：9527)</td>
     </tr>
   </tbody>
 </table>
