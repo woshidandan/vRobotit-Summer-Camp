@@ -39,7 +39,7 @@
     <tr>
       <td style="text-align:center;"><strong>3. 任务宣讲</strong></td>
       <td><ul><li>参与线上会议</li><li>各小组负责人详细介绍夏令营作业与任务安排</li><li>在线答疑环节</li></ul></td>
-      <td style="text-align:center;">所有人加群后第二天</br>(2025年7月15日)</td>
+      <td style="text-align:center;">所有人加群后第二天</br>(2025年7月15日)</br>腾讯会议：323-368-633(密码：9527))</td>
     </tr>
     <tr>
       <td style="text-align:center;"><strong>4. 完成作业</strong></td>
